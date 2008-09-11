@@ -1,7 +1,4 @@
-= Community Discussions = 
-
 = Links =
 [http://lists.w3.org/Archives/Public/ietf-http-wg/2008JulSep/0441.html] Original Announcement
 
 [http://news.ycombinator.com/item?id=299618] YCombinator thread on SDCH proposal 
-
