@@ -1,0 +1,9 @@
+# SDCH Specifications #
+
+[Initial SDCH Specification](http://sdch.googlegroups.com/web/Shared_Dictionary_Compression_over_HTTP.pdf?gda=rcxEU10AAADesD7oVzP2tIH3YMhCCYbwJPLDOkMWBfS0pSS0FhobMQ12alwZyuoqsE-BiY88xfLrk0HuZRJs1gcUl6mErWX6yPI8Lq4cE5IelfQO528z8OU2_747KStNgkfeVUa7Znk)
+
+[SDCH Presentation](http://sdch.googlegroups.com/web/sdch3-velocity.ppt?gda=9FTSEUQAAADesD7oVzP2tIH3YMhCCYbwN_0q4B4X3THxwCuDKP9ZNhuCYbl8tdxvBWUjzFHC7V5V6u9SiETdg0Q2ffAyHU-dzc4BZkLnSFWX59nr5BxGqA)
+
+# Notes #
+
+Any mod\_sdch notes/thoughts should go here.
